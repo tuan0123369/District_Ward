@@ -1,0 +1,710 @@
+Name,Code
+Quận Ba Đình,001
+Quận Hoàn Kiếm,002
+Quận Tây Hồ,003
+Quận Long Biên,004
+Quận Cầu Giấy,005
+Quận Đống Đa,006
+Quận Hai Bà Trưng,007
+Quận Hoàng Mai,008
+Quận Thanh Xuân,009
+Huyện Sóc Sơn,016
+Huyện Đông Anh,017
+Huyện Gia Lâm,018
+Quận Nam Từ Liêm,019
+Huyện Thanh Trì,020
+Quận Bắc Từ Liêm,021
+Huyện Mê Linh,250
+Quận Hà Đông,268
+Thị xã Sơn Tây,269
+Huyện Ba Vì,271
+Huyện Phúc Thọ,272
+Huyện Đan Phượng,273
+Huyện Hoài Đức,274
+Huyện Quốc Oai,275
+Huyện Thạch Thất,276
+Huyện Chương Mỹ,277
+Huyện Thanh Oai,278
+Huyện Thường Tín,279
+Huyện Phú Xuyên,280
+Huyện Ứng Hòa,281
+Huyện Mỹ Đức,282
+Thành phố Hà Giang,024
+Huyện Đồng Văn,026
+Huyện Mèo Vạc,027
+Huyện Yên Minh,028
+Huyện Quản Bạ,029
+Huyện Vị Xuyên,030
+Huyện Bắc Mê,031
+Huyện Hoàng Su Phì,032
+Huyện Xín Mần,033
+Huyện Bắc Quang,034
+Huyện Quang Bình,035
+Thành phố Cao Bằng,040
+Huyện Bảo Lâm,042
+Huyện Bảo Lạc,043
+Huyện Thông Nông,044
+Huyện Hà Quảng,045
+Huyện Trà Lĩnh,046
+Huyện Trùng Khánh,047
+Huyện Hạ Lang,048
+Huyện Quảng Uyên,049
+Huyện Phục Hoà,050
+Huyện Hoà An,051
+Huyện Nguyên Bình,052
+Huyện Thạch An,053
+Thành Phố Bắc Kạn,058
+Huyện Pác Nặm,060
+Huyện Ba Bể,061
+Huyện Ngân Sơn,062
+Huyện Bạch Thông,063
+Huyện Chợ Đồn,064
+Huyện Chợ Mới,065
+Huyện Na Rì,066
+Thành phố Tuyên Quang,070
+Huyện Lâm Bình,071
+Huyện Na Hang,072
+Huyện Chiêm Hóa,073
+Huyện Hàm Yên,074
+Huyện Yên Sơn,075
+Huyện Sơn Dương,076
+Thành phố Lào Cai,080
+Huyện Bát Xát,082
+Huyện Mường Khương,083
+Huyện Si Ma Cai,084
+Huyện Bắc Hà,085
+Huyện Bảo Thắng,086
+Huyện Bảo Yên,087
+Huyện Sa Pa,088
+Huyện Văn Bàn,089
+Thành phố Điện Biên Phủ,094
+Thị Xã Mường Lay,095
+Huyện Mường Nhé,096
+Huyện Mường Chà,097
+Huyện Tủa Chùa,098
+Huyện Tuần Giáo,099
+Huyện Điện Biên,100
+Huyện Điện Biên Đông,101
+Huyện Mường Ảng,102
+Huyện Nậm Pồ,103
+Thành phố Lai Châu,105
+Huyện Tam Đường,106
+Huyện Mường Tè,107
+Huyện Sìn Hồ,108
+Huyện Phong Thổ,109
+Huyện Than Uyên,110
+Huyện Tân Uyên,111
+Huyện Nậm Nhùn,112
+Thành phố Sơn La,116
+Huyện Quỳnh Nhai,118
+Huyện Thuận Châu,119
+Huyện Mường La,120
+Huyện Bắc Yên,121
+Huyện Phù Yên,122
+Huyện Mộc Châu,123
+Huyện Yên Châu,124
+Huyện Mai Sơn,125
+Huyện Sông Mã,126
+Huyện Sốp Cộp,127
+Huyện Vân Hồ,128
+Thành phố Yên Bái,132
+Thị xã Nghĩa Lộ,133
+Huyện Lục Yên,135
+Huyện Văn Yên,136
+Huyện Mù Căng Chải,137
+Huyện Trấn Yên,138
+Huyện Trạm Tấu,139
+Huyện Văn Chấn,140
+Huyện Yên Bình,141
+Thành phố Hòa Bình,148
+Huyện Đà Bắc,150
+Huyện Kỳ Sơn,151
+Huyện Lương Sơn,152
+Huyện Kim Bôi,153
+Huyện Cao Phong,154
+Huyện Tân Lạc,155
+Huyện Mai Châu,156
+Huyện Lạc Sơn,157
+Huyện Yên Thủy,158
+Huyện Lạc Thủy,159
+Thành phố Thái Nguyên,164
+Thành phố Sông Công,165
+Huyện Định Hóa,167
+Huyện Phú Lương,168
+Huyện Đồng Hỷ,169
+Huyện Võ Nhai,170
+Huyện Đại Từ,171
+Thị xã Phổ Yên,172
+Huyện Phú Bình,173
+Thành phố Lạng Sơn,178
+Huyện Tràng Định,180
+Huyện Bình Gia,181
+Huyện Văn Lãng,182
+Huyện Cao Lộc,183
+Huyện Văn Quan,184
+Huyện Bắc Sơn,185
+Huyện Hữu Lũng,186
+Huyện Chi Lăng,187
+Huyện Lộc Bình,188
+Huyện Đình Lập,189
+Thành phố Hạ Long,193
+Thành phố Móng Cái,194
+Thành phố Cẩm Phả,195
+Thành phố Uông Bí,196
+Huyện Bình Liêu,198
+Huyện Tiên Yên,199
+Huyện Đầm Hà,200
+Huyện Hải Hà,201
+Huyện Ba Chẽ,202
+Huyện Vân Đồn,203
+Huyện Hoành Bồ,204
+Thị xã Đông Triều,205
+Thị xã Quảng Yên,206
+Huyện Cô Tô,207
+Thành phố Bắc Giang,213
+Huyện Yên Thế,215
+Huyện Tân Yên,216
+Huyện Lạng Giang,217
+Huyện Lục Nam,218
+Huyện Lục Ngạn,219
+Huyện Sơn Động,220
+Huyện Yên Dũng,221
+Huyện Việt Yên,222
+Huyện Hiệp Hòa,223
+Thành phố Việt Trì,227
+Thị xã Phú Thọ,228
+Huyện Đoan Hùng,230
+Huyện Hạ Hoà,231
+Huyện Thanh Ba,232
+Huyện Phù Ninh,233
+Huyện Yên Lập,234
+Huyện Cẩm Khê,235
+Huyện Tam Nông,236
+Huyện Lâm Thao,237
+Huyện Thanh Sơn,238
+Huyện Thanh Thuỷ,239
+Huyện Tân Sơn,240
+Thành phố Vĩnh Yên,243
+Thị xã Phúc Yên,244
+Huyện Lập Thạch,246
+Huyện Tam Dương,247
+Huyện Tam Đảo,248
+Huyện Bình Xuyên,249
+Huyện Yên Lạc,251
+Huyện Vĩnh Tường,252
+Huyện Sông Lô,253
+Thành phố Bắc Ninh,256
+Huyện Yên Phong,258
+Huyện Quế Võ,259
+Huyện Tiên Du,260
+Thị xã Từ Sơn,261
+Huyện Thuận Thành,262
+Huyện Gia Bình,263
+Huyện Lương Tài,264
+Thành phố Hải Dương,288
+Thị xã Chí Linh,290
+Huyện Nam Sách,291
+Huyện Kinh Môn,292
+Huyện Kim Thành,293
+Huyện Thanh Hà,294
+Huyện Cẩm Giàng,295
+Huyện Bình Giang,296
+Huyện Gia Lộc,297
+Huyện Tứ Kỳ,298
+Huyện Ninh Giang,299
+Huyện Thanh Miện,300
+Quận Hồng Bàng,303
+Quận Ngô Quyền,304
+Quận Lê Chân,305
+Quận Hải An,306
+Quận Kiến An,307
+Quận Đồ Sơn,308
+Quận Dương Kinh,309
+Huyện Thuỷ Nguyên,311
+Huyện An Dương,312
+Huyện An Lão,313
+Huyện Kiến Thuỵ,314
+Huyện Tiên Lãng,315
+Huyện Vĩnh Bảo,316
+Huyện Cát Hải,317
+Thành phố Hưng Yên,323
+Huyện Văn Lâm,325
+Huyện Văn Giang,326
+Huyện Yên Mỹ,327
+Huyện Mỹ Hào,328
+Huyện Ân Thi,329
+Huyện Khoái Châu,330
+Huyện Kim Động,331
+Huyện Tiên Lữ,332
+Huyện Phù Cừ,333
+Thành phố Thái Bình,336
+Huyện Quỳnh Phụ,338
+Huyện Hưng Hà,339
+Huyện Đông Hưng,340
+Huyện Thái Thụy,341
+Huyện Tiền Hải,342
+Huyện Kiến Xương,343
+Huyện Vũ Thư,344
+Thành phố Phủ Lý,347
+Huyện Duy Tiên,349
+Huyện Kim Bảng,350
+Huyện Thanh Liêm,351
+Huyện Bình Lục,352
+Huyện Lý Nhân,353
+Thành phố Nam Định,356
+Huyện Mỹ Lộc,358
+Huyện Vụ Bản,359
+Huyện Ý Yên,360
+Huyện Nghĩa Hưng,361
+Huyện Nam Trực,362
+Huyện Trực Ninh,363
+Huyện Xuân Trường,364
+Huyện Giao Thủy,365
+Huyện Hải Hậu,366
+Thành phố Ninh Bình,369
+Thành phố Tam Điệp,370
+Huyện Nho Quan,372
+Huyện Gia Viễn,373
+Huyện Hoa Lư,374
+Huyện Yên Khánh,375
+Huyện Kim Sơn,376
+Huyện Yên Mô,377
+Thành phố Thanh Hóa,380
+Thị xã Bỉm Sơn,381
+Thành phố Sầm Sơn,382
+Huyện Mường Lát,384
+Huyện Quan Hóa,385
+Huyện Bá Thước,386
+Huyện Quan Sơn,387
+Huyện Lang Chánh,388
+Huyện Ngọc Lặc,389
+Huyện Cẩm Thủy,390
+Huyện Thạch Thành,391
+Huyện Hà Trung,392
+Huyện Vĩnh Lộc,393
+Huyện Yên Định,394
+Huyện Thọ Xuân,395
+Huyện Thường Xuân,396
+Huyện Triệu Sơn,397
+Huyện Thiệu Hóa,398
+Huyện Hoằng Hóa,399
+Huyện Hậu Lộc,400
+Huyện Nga Sơn,401
+Huyện Như Xuân,402
+Huyện Như Thanh,403
+Huyện Nông Cống,404
+Huyện Đông Sơn,405
+Huyện Quảng Xương,406
+Huyện Tĩnh Gia,407
+Thành phố Vinh,412
+Thị xã Cửa Lò,413
+Thị xã Thái Hoà,414
+Huyện Quế Phong,415
+Huyện Quỳ Châu,416
+Huyện Kỳ Sơn,417
+Huyện Tương Dương,418
+Huyện Nghĩa Đàn,419
+Huyện Quỳ Hợp,420
+Huyện Quỳnh Lưu,421
+Huyện Con Cuông,422
+Huyện Tân Kỳ,423
+Huyện Anh Sơn,424
+Huyện Diễn Châu,425
+Huyện Yên Thành,426
+Huyện Đô Lương,427
+Huyện Thanh Chương,428
+Huyện Nghi Lộc,429
+Huyện Nam Đàn,430
+Huyện Hưng Nguyên,431
+Thị xã Hoàng Mai,432
+Thành phố Hà Tĩnh,436
+Thị xã Hồng Lĩnh,437
+Huyện Hương Sơn,439
+Huyện Đức Thọ,440
+Huyện Vũ Quang,441
+Huyện Nghi Xuân,442
+Huyện Can Lộc,443
+Huyện Hương Khê,444
+Huyện Thạch Hà,445
+Huyện Cẩm Xuyên,446
+Huyện Kỳ Anh,447
+Huyện Lộc Hà,448
+Thị xã Kỳ Anh,449
+Thành Phố Đồng Hới,450
+Huyện Minh Hóa,452
+Huyện Tuyên Hóa,453
+Huyện Quảng Trạch,454
+Huyện Bố Trạch,455
+Huyện Quảng Ninh,456
+Huyện Lệ Thủy,457
+Thị xã Ba Đồn,458
+Thành phố Đông Hà,461
+Thị xã Quảng Trị,462
+Huyện Vĩnh Linh,464
+Huyện Hướng Hóa,465
+Huyện Gio Linh,466
+Huyện Đa Krông,467
+Huyện Cam Lộ,468
+Huyện Triệu Phong,469
+Huyện Hải Lăng,470
+Thành phố Huế,474
+Huyện Phong Điền,476
+Huyện Quảng Điền,477
+Huyện Phú Vang,478
+Thị xã Hương Thủy,479
+Thị xã Hương Trà,480
+Huyện A Lưới,481
+Huyện Phú Lộc,482
+Huyện Nam Đông,483
+Quận Liên Chiểu,490
+Quận Thanh Khê,491
+Quận Hải Châu,492
+Quận Sơn Trà,493
+Quận Ngũ Hành Sơn,494
+Quận Cẩm Lệ,495
+Huyện Hòa Vang,497
+Thành phố Tam Kỳ,502
+Thành phố Hội An,503
+Huyện Tây Giang,504
+Huyện Đông Giang,505
+Huyện Đại Lộc,506
+Thị xã Điện Bàn,507
+Huyện Duy Xuyên,508
+Huyện Quế Sơn,509
+Huyện Nam Giang,510
+Huyện Phước Sơn,511
+Huyện Hiệp Đức,512
+Huyện Thăng Bình,513
+Huyện Tiên Phước,514
+Huyện Bắc Trà My,515
+Huyện Nam Trà My,516
+Huyện Núi Thành,517
+Huyện Phú Ninh,518
+Huyện Nông Sơn,519
+Thành phố Quảng Ngãi,522
+Huyện Bình Sơn,524
+Huyện Trà Bồng,525
+Huyện Tây Trà,526
+Huyện Sơn Tịnh,527
+Huyện Tư Nghĩa,528
+Huyện Sơn Hà,529
+Huyện Sơn Tây,530
+Huyện Minh Long,531
+Huyện Nghĩa Hành,532
+Huyện Mộ Đức,533
+Huyện Đức Phổ,534
+Huyện Ba Tơ,535
+Huyện Lý Sơn,536
+Thành phố Qui Nhơn,540
+Huyện An Lão,542
+Huyện Hoài Nhơn,543
+Huyện Hoài Ân,544
+Huyện Phù Mỹ,545
+Huyện Vĩnh Thạnh,546
+Huyện Tây Sơn,547
+Huyện Phù Cát,548
+Thị xã An Nhơn,549
+Huyện Tuy Phước,550
+Huyện Vân Canh,551
+Thành phố Tuy Hoà,555
+Thị xã Sông Cầu,557
+Huyện Đồng Xuân,558
+Huyện Tuy An,559
+Huyện Sơn Hòa,560
+Huyện Sông Hinh,561
+Huyện Tây Hoà,562
+Huyện Phú Hoà,563
+Huyện Đông Hòa,564
+Thành phố Nha Trang,568
+Thành phố Cam Ranh,569
+Huyện Cam Lâm,570
+Huyện Vạn Ninh,571
+Thị xã Ninh Hòa,572
+Huyện Khánh Vĩnh,573
+Huyện Diên Khánh,574
+Huyện Khánh Sơn,575
+Huyện Trường Sa,576
+Thành phố Phan Rang-Tháp Chàm,582
+Huyện Bác Ái,584
+Huyện Ninh Sơn,585
+Huyện Ninh Hải,586
+Huyện Ninh Phước,587
+Huyện Thuận Bắc,588
+Huyện Thuận Nam,589
+Thành phố Phan Thiết,593
+Thị xã La Gi,594
+Huyện Tuy Phong,595
+Huyện Bắc Bình,596
+Huyện Hàm Thuận Bắc,597
+Huyện Hàm Thuận Nam,598
+Huyện Tánh Linh,599
+Huyện Đức Linh,600
+Huyện Hàm Tân,601
+Huyện Phú Quí,602
+Thành phố Kon Tum,608
+Huyện Đắk Glei,610
+Huyện Ngọc Hồi,611
+Huyện Đắk Tô,612
+Huyện Kon Plông,613
+Huyện Kon Rẫy,614
+Huyện Đắk Hà,615
+Huyện Sa Thầy,616
+Huyện Tu Mơ Rông,617
+Huyện Ia H' Drai,618
+Thành phố Pleiku,622
+Thị xã An Khê,623
+Thị xã Ayun Pa,624
+Huyện KBang,625
+Huyện Đăk Đoa,626
+Huyện Chư Păh,627
+Huyện Ia Grai,628
+Huyện Mang Yang,629
+Huyện Kông Chro,630
+Huyện Đức Cơ,631
+Huyện Chư Prông,632
+Huyện Chư Sê,633
+Huyện Đăk Pơ,634
+Huyện Ia Pa,635
+Huyện Krông Pa,637
+Huyện Phú Thiện,638
+Huyện Chư Pưh,639
+Thành phố Buôn Ma Thuột,643
+Thị Xã Buôn Hồ,644
+Huyện Ea H'leo,645
+Huyện Ea Súp,646
+Huyện Buôn Đôn,647
+Huyện Cư M'gar,648
+Huyện Krông Búk,649
+Huyện Krông Năng,650
+Huyện Ea Kar,651
+Huyện M'Đrắk,652
+Huyện Krông Bông,653
+Huyện Krông Pắc,654
+Huyện Krông A Na,655
+Huyện Lắk,656
+Huyện Cư Kuin,657
+Thị xã Gia Nghĩa,660
+Huyện Đăk Glong,661
+Huyện Cư Jút,662
+Huyện Đắk Mil,663
+Huyện Krông Nô,664
+Huyện Đắk Song,665
+Huyện Đắk R'Lấp,666
+Huyện Tuy Đức,667
+Thành phố Đà Lạt,672
+Thành phố Bảo Lộc,673
+Huyện Đam Rông,674
+Huyện Lạc Dương,675
+Huyện Lâm Hà,676
+Huyện Đơn Dương,677
+Huyện Đức Trọng,678
+Huyện Di Linh,679
+Huyện Bảo Lâm,680
+Huyện Đạ Huoai,681
+Huyện Đạ Tẻh,682
+Huyện Cát Tiên,683
+Thị xã Phước Long,688
+Thị xã Đồng Xoài,689
+Thị xã Bình Long,690
+Huyện Bù Gia Mập,691
+Huyện Lộc Ninh,692
+Huyện Bù Đốp,693
+Huyện Hớn Quản,694
+Huyện Đồng Phú,695
+Huyện Bù Đăng,696
+Huyện Chơn Thành,697
+Huyện Phú Riềng,698
+Thành phố Tây Ninh,703
+Huyện Tân Biên,705
+Huyện Tân Châu,706
+Huyện Dương Minh Châu,707
+Huyện Châu Thành,708
+Huyện Hòa Thành,709
+Huyện Gò Dầu,710
+Huyện Bến Cầu,711
+Huyện Trảng Bàng,712
+Thành phố Thủ Dầu Một,718
+Huyện Bàu Bàng,719
+Huyện Dầu Tiếng,720
+Thị xã Bến Cát,721
+Huyện Phú Giáo,722
+Thị xã Tân Uyên,723
+Thị xã Dĩ An,724
+Thị xã Thuận An,725
+Huyện Bắc Tân Uyên,726
+Thành phố Biên Hòa,731
+Thị xã Long Khánh,732
+Huyện Tân Phú,734
+Huyện Vĩnh Cửu,735
+Huyện Định Quán,736
+Huyện Trảng Bom,737
+Huyện Thống Nhất,738
+Huyện Cẩm Mỹ,739
+Huyện Long Thành,740
+Huyện Xuân Lộc,741
+Huyện Nhơn Trạch,742
+Thành phố Vũng Tàu,747
+Thành phố Bà Rịa,748
+Huyện Châu Đức,750
+Huyện Xuyên Mộc,751
+Huyện Long Điền,752
+Huyện Đất Đỏ,753
+Huyện Tân Thành,754
+Quận 1,760
+Quận 12,761
+Quận Thủ Đức,762
+Quận 9,763
+Quận Gò Vấp,764
+Quận Bình Thạnh,765
+Quận Tân Bình,766
+Quận Tân Phú,767
+Quận Phú Nhuận,768
+Quận 2,769
+Quận 3,770
+Quận 10,771
+Quận 11,772
+Quận 4,773
+Quận 5,774
+Quận 6,775
+Quận 8,776
+Quận Bình Tân,777
+Quận 7,778
+Huyện Củ Chi,783
+Huyện Hóc Môn,784
+Huyện Bình Chánh,785
+Huyện Nhà Bè,786
+Huyện Cần Giờ,787
+Thành phố Tân An,794
+Thị xã Kiến Tường,795
+Huyện Tân Hưng,796
+Huyện Vĩnh Hưng,797
+Huyện Mộc Hóa,798
+Huyện Tân Thạnh,799
+Huyện Thạnh Hóa,800
+Huyện Đức Huệ,801
+Huyện Đức Hòa,802
+Huyện Bến Lức,803
+Huyện Thủ Thừa,804
+Huyện Tân Trụ,805
+Huyện Cần Đước,806
+Huyện Cần Giuộc,807
+Huyện Châu Thành,808
+Thành phố Mỹ Tho,815
+Thị xã Gò Công,816
+Thị xã Cai Lậy,817
+Huyện Tân Phước,818
+Huyện Cái Bè,819
+Huyện Cai Lậy,820
+Huyện Châu Thành,821
+Huyện Chợ Gạo,822
+Huyện Gò Công Tây,823
+Huyện Gò Công Đông,824
+Huyện Tân Phú Đông,825
+Thành phố Bến Tre,829
+Huyện Châu Thành,831
+Huyện Chợ Lách,832
+Huyện Mỏ Cày Nam,833
+Huyện Giồng Trôm,834
+Huyện Bình Đại,835
+Huyện Ba Tri,836
+Huyện Thạnh Phú,837
+Huyện Mỏ Cày Bắc,838
+Thành phố Trà Vinh,842
+Huyện Càng Long,844
+Huyện Cầu Kè,845
+Huyện Tiểu Cần,846
+Huyện Châu Thành,847
+Huyện Cầu Ngang,848
+Huyện Trà Cú,849
+Huyện Duyên Hải,850
+Thị xã Duyên Hải,851
+Thành phố Vĩnh Long,855
+Huyện Long Hồ,857
+Huyện Mang Thít,858
+Huyện  Vũng Liêm,859
+Huyện Tam Bình,860
+Thị xã Bình Minh,861
+Huyện Trà Ôn,862
+Huyện Bình Tân,863
+Thành phố Cao Lãnh,866
+Thành phố Sa Đéc,867
+Thị xã Hồng Ngự,868
+Huyện Tân Hồng,869
+Huyện Hồng Ngự,870
+Huyện Tam Nông,871
+Huyện Tháp Mười,872
+Huyện Cao Lãnh,873
+Huyện Thanh Bình,874
+Huyện Lấp Vò,875
+Huyện Lai Vung,876
+Huyện Châu Thành,877
+Thành phố Long Xuyên,883
+Thành phố Châu Đốc,884
+Huyện An Phú,886
+Thị xã Tân Châu,887
+Huyện Phú Tân,888
+Huyện Châu Phú,889
+Huyện Tịnh Biên,890
+Huyện Tri Tôn,891
+Huyện Châu Thành,892
+Huyện Chợ Mới,893
+Huyện Thoại Sơn,894
+Thành phố Rạch Giá,899
+Thị xã Hà Tiên,900
+Huyện Kiên Lương,902
+Huyện Hòn Đất,903
+Huyện Tân Hiệp,904
+Huyện Châu Thành,905
+Huyện Giồng Riềng,906
+Huyện Gò Quao,907
+Huyện An Biên,908
+Huyện An Minh,909
+Huyện Vĩnh Thuận,910
+Huyện Phú Quốc,911
+Huyện Kiên Hải,912
+Huyện U Minh Thượng,913
+Huyện Giang Thành,914
+Quận Ninh Kiều,916
+Quận Ô Môn,917
+Quận Bình Thuỷ,918
+Quận Cái Răng,919
+Quận Thốt Nốt,923
+Huyện Vĩnh Thạnh,924
+Huyện Cờ Đỏ,925
+Huyện Phong Điền,926
+Huyện Thới Lai,927
+Thành phố Vị Thanh,930
+Thị xã Ngã Bảy,931
+Huyện Châu Thành A,932
+Huyện Châu Thành,933
+Huyện Phụng Hiệp,934
+Huyện Vị Thuỷ,935
+Huyện Long Mỹ,936
+Thị xã Long Mỹ,937
+Thành phố Sóc Trăng,941
+Huyện Châu Thành,942
+Huyện Kế Sách,943
+Huyện Mỹ Tú,944
+Huyện Cù Lao Dung,945
+Huyện Long Phú,946
+Huyện Mỹ Xuyên,947
+Thị xã Ngã Năm,948
+Huyện Thạnh Trị,949
+Thị xã Vĩnh Châu,950
+Huyện Trần Đề,951
+Thành phố Bạc Liêu,954
+Huyện Hồng Dân,956
+Huyện Phước Long,957
+Huyện Vĩnh Lợi,958
+Thị xã Giá Rai,959
+Huyện Đông Hải,960
+Huyện Hoà Bình,961
+Thành phố Cà Mau,964
+Huyện U Minh,966
+Huyện Thới Bình,967
+Huyện Trần Văn Thời,968
+Huyện Cái Nước,969
+Huyện Đầm Dơi,970
+Huyện Năm Căn,971
+Huyện Phú Tân,972
+Huyện Ngọc Hiển,973
